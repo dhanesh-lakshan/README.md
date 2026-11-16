@@ -204,15 +204,11 @@ An intelligent tourism platform designed to improve travel experiences in Sri La
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
-## 🐍 // CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/dhanesh-lakshan/dhanesh-lakshan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
+<img src="https://raw.githubusercontent.com/dhanesh-lakshan/dhanesh-lakshan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
-
----
 
 <!-- ================= CONNECT ================= -->
 
